@@ -1,0 +1,1 @@
+une application attrayante qui présente des informations sur les personnages de Family Guy. En outre, nous inclurons une section de quiz où les utilisateurs peuvent tester leurs connaissances du spectacle.
